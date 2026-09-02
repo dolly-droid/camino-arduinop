@@ -5,7 +5,7 @@
 **Equipo:** Umbral Seco
 **Problemática:** Desecación ambiental y riesgo de incendios forestales
 
-![Foto del equipo](imagenes/S01/foto-equipo.jpg)
+![Foto del equipo](imagenes/S01/equipo.png)
 
 ## Descripción
 
